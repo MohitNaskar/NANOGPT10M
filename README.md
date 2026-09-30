@@ -64,4 +64,4 @@ This is a character-level language model, so it predicts one character at a time
 
 ## License
 
-No license has been specified yet.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
