@@ -1,0 +1,7 @@
+torch
+numpy
+tiktoken
+tqdm
+requests
+jupyter
+ipykernel

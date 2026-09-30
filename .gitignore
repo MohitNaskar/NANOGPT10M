@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints / outputs
+out/
+checkpoints/
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
